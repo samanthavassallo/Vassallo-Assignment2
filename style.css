@@ -1,0 +1,16 @@
+
+th, td {
+    border: 1px solid #ddd;
+  }
+  th:hover, td:hover{
+    background-color: #f9f9f9; /*i am changing the color from white 
+    bc you cant tell when hovering */
+  }
+  table{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  body{
+    padding: 100px;
+  }
